@@ -1322,7 +1322,7 @@
     "IsPatientProvided": true
   },
   {
-    "text": "Any recent history of loss smell or decrease in smell?",
+    "text": "Any recent history of losmellss  or decrease in smell?",
     "laytext": "Did you recently lost smell, or did you recently noticed decreased sense of smell?",
     "name": "LossOfSmell",
     "type": "categorical",
